@@ -12,9 +12,7 @@ comments added.
 
 
 We have the different data for this file.
-
 Checking the branching.
-
 
 2: Data.
 Let check it through the commands.
