@@ -8,3 +8,27 @@ git add
 git commit -m ""
 git log
 Git diff <filename>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+git config user.name "Naman"
+git config user.email namangawande@yahoo.in
