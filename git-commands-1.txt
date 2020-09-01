@@ -1,5 +1,5 @@
 git status -> print the status of the 
-git init
+git init _> Init the flow. changed
 git config --global user.name "Naman"
 git config --global user.email namangawande@yahoo.in
 git config user.name "Naman"
