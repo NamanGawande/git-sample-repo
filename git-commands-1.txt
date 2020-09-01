@@ -8,3 +8,7 @@ git add
 git commit -m ""
 git log
 Git diff <filename>
+
+
+We have the different data for this file.
+Checking the branching.
