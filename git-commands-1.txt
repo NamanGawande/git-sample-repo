@@ -10,25 +10,9 @@ git log
 Git diff <filename>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+We have the different data for this file.
+Checking the branching.
 
 git config user.name "Naman"
 git config user.email namangawande@yahoo.in
+
